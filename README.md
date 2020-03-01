@@ -1,4 +1,4 @@
-# NAV API GATEWAY V-0.1.0
+# NAV API GATEWAY
 
 GraphQL API Gateway for Microsoft Navision Written in GO
 
